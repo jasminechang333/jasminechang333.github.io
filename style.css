@@ -1,0 +1,75 @@
+body {
+  background-color: #cccccc;
+}
+p{
+  font-family: 'courier new', monospace;
+  padding: 25px;
+  color: black;
+}
+
+.name{
+  font-family: 'courier new', monospace;
+  letter-spacing: 6.5vw;
+  padding-left: 35px;
+  padding-top: 25px;
+  font-size: 30px;
+  color: black;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.photography{
+  font-family: 'courier new', monospace;
+  letter-spacing: 1.5vw;
+  text-align: right;
+  padding-top: 75px;
+  padding-right: 150px;
+  padding-bottom: 75px;
+}
+
+.homeHeader{
+  font-family: 'courier new', monospace;
+  font-size: 20px;
+}
+
+.homeSub{
+  font-family: 'courier new', monospace;
+  font-size: 15px;
+  color: black;
+}
+
+.music{
+  font-family: 'courier new', monospace;
+  letter-spacing: 1.5vw;
+  text-align: left;
+  padding-left: 150px;
+}
+
+img{
+  display: block;
+  max-width: 70%;
+  height: auto;
+  padding: 20px;
+  padding-top: 45px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+
+/*.editorialPhotos{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}*/
